@@ -1,0 +1,50 @@
+
+<xml>
+<page>
+<title>
+Page1
+</title>
+<id>
+0
+</id>
+<text>
+[[Page2]] is a good page. 
+[[Page3]] is also a decent page.
+[[Page4]] shouldn't be forgotten.
+</text>
+</page>
+<page>
+<title>
+Page2
+</title>
+<id>
+1
+</id>
+<text>
+[[Page3]] has interesting information.
+[[Page4]] is pretty interesting too.
+</text>
+</page>
+<page>
+<title>
+Page3
+</title>
+<id>
+2
+</id>
+<text>
+[[Page1]] is the only page that I care about.
+</text>
+</page>
+<page>
+<title>
+Page4
+</title>
+<id>
+3
+</id>
+<text>
+[[Page1]] is cool, but so is [[Page3]] too.
+</text>
+</page>
+</xml>

@@ -1,0 +1,67 @@
+<!-- this file will test the priorities in search, Page0 has a key word "Mississipi",
+but Page3 and Page4 have the most incoming links -->
+
+
+<xml>
+<page>
+<title>
+Page0
+</title>
+<id>
+0
+</id>
+<text>
+Mississippi [[Page 4]] [[Page 3]]
+</text>
+</page>
+<page>
+<title>
+Page1
+</title>
+<id>
+1
+</id>
+<text>
+this is the text in page [[Page2]]
+and this is more text [[Page3]] haha
+</text>
+</page>
+<page>
+<title>
+Page2
+</title>
+<id>
+2
+</id>
+<text>
+text is here [[Page3]]
+even further more we show [[Page4]] is important
+</text>
+</page>
+<page>
+<title>
+Page3
+</title>
+<id>
+3
+</id>
+<text>
+this text means nothing[[Page4]]
+even further more, bananas!!!!!!
+</text>
+</page>
+<page>
+<title>
+Page4
+</title>
+<id>
+4
+</id>
+<text>
+AYYYY[[Page3]]
+page 3 gets mad facetime 
+</text>
+</page>
+
+
+</xml>

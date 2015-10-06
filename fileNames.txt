@@ -1,0 +1,7 @@
+scala -J-Xmx2g search.Index /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/BigWiki /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/titleFileBig.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/wordFileBig.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/docFileBig.txt
+scala -J-Xmx2g search.Query --knight-rank /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/titleFileBig.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/docFileBig.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/wordFileBig.txt
+
+==MEDIUM
+
+scala -J-Xmx512m search.Index /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/MedWiki /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/titleFileMed.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/wordFileMed.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/docFileMed.txt
+scala search.Query --knight-rank /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/titleFileMed.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/docFileMed.txt /gpfs/main/home/lackley/course/cs018/workspace/scalaproject/src/search/wordFileMed.txt

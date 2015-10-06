@@ -1,0 +1,69 @@
+<!-- Page3 and Page4 should have equivilent incoming and outgoing link status, however 
+Page3 has a key word "bananas" which is not found anywhere else -->
+
+
+<xml>
+<page>
+<title>
+Page0
+</title>
+<id>
+0
+</id>
+<text>
+a b c d
+a a a 
+this is some sample text 
+</text>
+</page>
+<page>
+<title>
+Page1
+</title>
+<id>
+1
+</id>
+<text>
+this is the text in page [[Page2]]
+and this is more text [[Page3]] haha
+</text>
+</page>
+<page>
+<title>
+Page2
+</title>
+<id>
+2
+</id>
+<text>
+text is here for page2 [[Page3]]
+even further more we believe [[Page4]] is important
+</text>
+</page>
+<page>
+<title>
+Page3
+</title>
+<id>
+3
+</id>
+<text>
+text is here for page3 [[Page4]]
+even further more we believe is important bananas
+</text>
+</page>
+<page>
+<title>
+Page4
+</title>
+<id>
+4
+</id>
+<text>
+text is here for page2 [[Page3]]
+even further more we believe is important
+</text>
+</page>
+
+
+</xml>

@@ -1,0 +1,244 @@
+Knights who say Ni
+1) Knights who say Ni
+2) Knights of Columbus
+3) Lincos (artificial language)
+4) Novial
+5) Giuseppe Peano
+6) Modulo
+7) Ido
+8) Justin Martyr
+9) Nirvana (UK band)
+10) Peisistratus (disambiguation)
+
+enter search phrase: 
+a moose once bit my sister
+1) MD5
+2) Intel 8080
+3) Error detection and correction
+4) Enjambment
+5) Enhanced Data Rates for GSM Evolution
+6) Portable Network Graphics
+7) Huffman coding
+8) Hash function
+9) Heart of Oak
+10) Maria Feodorovna (Dagmar of Denmark)
+
+enter search phrase: 
+John Lennon
+1) John Lennon
+2) John Abercrombie (physician)
+3) John Woo
+4) John Rutsey
+5) John James Rickard Macleod
+6) John Tenniel
+7) John Radcliffe (physician)
+8) John Bardeen
+9) John Newton
+10) John Keats
+
+enter search phrase: 
+cookies
+1) Matzo
+2) Pizza
+3) Cuisine of the Midwestern United States
+
+enter search phrase: 
+America
+1) Putumayo (disambiguation)
+2) Martin Waldseem?ller
+3) Transport in Martinique
+4) Transport in Honduras
+5) Foreign relations of Panama
+6) Judeo-Christian
+7) Film festival
+8) Geography of Nicaragua
+9) Panama
+10) Telecommunications in Guatemala
+
+enter search phrase: 
+politics film
+1) Film festival
+2) Mustafa Alt?oklar
+3) Fran?ois Truffaut
+4) Index of motion picture terminology
+5) John Woo
+6) Franklin J. Schaffner
+7) Princess Mononoke
+8) First National
+9) Enter the Dragon
+10) Fritz Lang
+
+enter search phrase: 
+politics
+1) FSB
+2) Intergovernmentalism
+3) Politics of Jamaica
+4) Government
+5) Politics of Grenada
+6) Michele Columbu
+7) Politics of Mali
+8) Politics of Monaco
+9) Nationalism
+10) LDS
+
+enter search phrase: 
+politics of jamaica
+1) Jamaica
+2) Politics of Jamaica
+3) FSB
+4) Intergovernmentalism
+5) Government
+6) Politics of Grenada
+7) Michele Columbu
+8) Politics of Mali
+9) Politics of Monaco
+10) Isa (disambiguation)
+
+enter search phrase: 
+love
+1) Love Parade
+2) Izabella Scorupco
+3) Hugh Binning
+4) Fran?ois Truffaut
+5) Philology
+6) Utamaro
+7) G?tterd?mmerung
+8) Mariotto Albertinelli
+9) Post-communism
+10) Mojo (African American culture)
+
+enter search phrase: 
+war
+1) Lebanon War
+2) Peisistratus (disambiguation)
+3) Nasjonal Samling
+4) Fighter aircraft
+5) Armed forces
+6) W. Heath Robinson
+7) Falklands War
+8) Franklin D. Roosevelt
+9) Front line
+10) Nazi Germany
+
+enter search phrase: 
+lebanon war
+1) Lebanon War
+2) History of Lebanon
+3) Geography of Lebanon
+4) Peisistratus (disambiguation)
+5) Nasjonal Samling
+6) Demographics of Liberia
+7) Fighter aircraft
+8) Armed forces
+9) W. Heath Robinson
+10) Falklands War
+
+enter search phrase: 
+california
+1) Pico
+2) Hub
+3) Hollywood-style Lindy Hop
+4) Gray whale
+5) Gene Hackman
+6) Gilles Apap
+7) Golden Gate Bridge
+8) Los Angeles International Airport
+9) Geography of Morocco
+10) Lawyer
+
+enter search phrase: 
+freezing california
+1) Frost
+2) Lorisidae
+3) Pico
+4) Hub
+5) Hollywood-style Lindy Hop
+6) Food preservation
+7) Gray whale
+8) Gene Hackman
+9) Gilles Apap
+10) Golden Gate Bridge
+
+enter search phrase: 
+adkfj
+No documents match your query. Try checking spelling.
+enter search phrase: 
+:quit
+
+
+
+query of "philosophy" with knight rank on medium wiki
+1) George Berkeley score: 3.3436297531595576E-5 kr: 0.0011464794180143175 id: 114
+2) Enchiridion of Epictetus score: 9.567187860104893E-6 kr: 0.0011071332614836801 id: 23
+3) Individualist anarchism score: 8.63515693731173E-6 kr: 0.0011071332614836801 id: 280
+4) Faith score: 7.903237091059835E-6 kr: 0.0011071332614836801 id: 77
+5) F?lix Guattari score: 7.525110587094202E-6 kr: 0.0011071332614836801 id: 80
+6) Hinduism score: 6.883900023337484E-6 kr: 0.001343054043499989 id: 210
+7) J?rgen Habermas score: 5.7420470501926064E-6 kr: 0.0011831059166693277 id: 361
+8) Philosophy of religion score: 4.719384161425913E-6 kr: 0.0011071332614836801 id: 755
+9) History of physics score: 4.651155126606209E-6 kr: 0.0011071332614836801 id: 224
+10) Gaia philosophy score: 4.634439374647747E-6 kr: 0.001124331365490239 id: 147
+
+query of "philosophy" without knight rank on medium wiki
+1) George Berkeley score: 0.02916432428373347 kr: 0.0011464794180143175 id: 114
+2) Enchiridion of Epictetus score: 0.008641405865888097 kr: 0.0011071332614836801 id: 23
+3) Individualist anarchism score: 0.00779956418772901 kr: 0.0011071332614836801 id: 280
+4) Faith score: 0.007138469564602033 kr: 0.0011071332614836801 id: 77
+5) F?lix Guattari score: 0.006796932988003383 kr: 0.0011071332614836801 id: 80
+6) Hinduism score: 0.00512555697714002 kr: 0.001343054043499989 id: 210
+7) J?rgen Habermas score: 0.004853366861994555 kr: 0.0011831059166693277 id: 361
+8) Philosophy of religion score: 0.004262706510236555 kr: 0.0011071332614836801 id: 755
+9) History of physics score: 0.004201079751116095 kr: 0.0011071332614836801 id: 224
+10) Gaia philosophy score: 0.004121951514380287 kr: 0.001124331365490239 id: 147
+
+====the knight ranks are all so similar for this query so results are same
+
+query of "muslim" without knight rank
+1) Muslim Brotherhood score: 0.020766187436183935 kr: 0.0011674092682416803 id: 632
+2) Jihad score: 0.01885416758028689 kr: 0.0011479839242055957 id: 357
+3) Kuomintang score: 0.013057393299893815 kr: 0.0011426487956793794 id: 421
+4) Heraclius score: 0.005601238018209771 kr: 0.0011170030083487196 id: 239
+5) Khazars score: 0.005233514069775593 kr: 0.0011071332614836801 id: 395
+6) Nation of Islam score: 0.003924132248928411 kr: 0.0011393725889916864 id: 693
+7) Pakistan score: 0.003803804732144508 kr: 0.002612383585219788 id: 770
+8) History of Lebanon score: 0.0036971656321162765 kr: 0.0011071332614836801 id: 463
+9) Jinn score: 0.0025988803576573725 kr: 0.0011071332614836801 id: 184
+10) Faith score: 0.0021028721975353717 kr: 0.0011071332614836801 id: 77
+
+query of "muslim" with knight rank
+1) Muslim Brotherhood score: 2.424263967904506E-5 kr: 0.0011674092682416803 id: 632
+2) Jihad score: 2.1644281286447664E-5 kr: 0.0011479839242055957 id: 357
+3) Kuomintang score: 1.4920014728835665E-5 kr: 0.0011426487956793794 id: 421
+4) Pakistan score: 9.936997043635665E-6 kr: 0.002612383585219788 id: 770
+5) Heraclius score: 6.256599716817535E-6 kr: 0.0011170030083487196 id: 239
+6) Khazars score: 5.794197501091381E-6 kr: 0.0011071332614836801 id: 395
+7) Nation of Islam score: 4.4710487200073325E-6 kr: 0.0011393725889916864 id: 693
+8) History of Lebanon score: 4.093255044530265E-6 kr: 0.0011071332614836801 id: 463
+9) Jinn score: 2.8773068865790797E-6 kr: 0.0011071332614836801 id: 184
+10) Faith score: 2.32815975454069E-6 kr: 0.0011071332614836801 id: 77
+
+==pakistan was moved up because of high knight rank
+
+query of "beer pub" with knight rank
+1) Public house score: 1.0097230774435221E-5 kr: 0.0011071332614836801 id: 845
+2) Enchiridion of Epictetus score: 5.7575450137857154E-6 kr: 0.0011071332614836801 id: 23
+3) Enki score: 3.926611553958842E-6 kr: 0.0011071332614836801 id: 34
+4) Food preservation score: 2.5897624682805542E-6 kr: 0.0011961061266052883 id: 55
+5) Gin score: 2.490737550113405E-6 kr: 0.0013022995462665678 id: 180
+6) Finite-state machine score: 2.2299889587890186E-6 kr: 0.0011071332614836801 id: 63
+7) Eduardo Blasco Ferrer score: 2.2069699598406105E-6 kr: 0.0011071332614836801 id: 33
+8) Guam score: 1.9364295180850298E-6 kr: 0.0018349484729161586 id: 115
+9) Gallium score: 1.922217944392642E-6 kr: 0.0011071332614836801 id: 137
+10) ITU-T score: 1.804129230463955E-6 kr: 0.0011660583216234492 id: 271
+
+query of "Pei" without knight rank
+1) I. M. Pei score: 0.11197503094483321 kr: 0.001146088024705713 id: 293
+2) General relativity score: 0.0013684280348849093 kr: 0.0011726965984443104 id: 119
+3) ISO 4217 score: 0.0010506150175642176 kr: 0.0011190261776759388 id: 304
+4) Macaroni score: 2.700235440891956E-4 kr: 0.0011071332614836801 id: 607
+
+query of "Pei" with knight rank
+1) I. M. Pei score: 1.2833324203192497E-4 kr: 0.001146088024705713 id: 293
+2) General relativity score: 1.6047509017253653E-6 kr: 0.0011726965984443104 id: 119
+3) ISO 4217 score: 1.1756657073138257E-6 kr: 0.0011190261776759388 id: 304
+4) Macaroni score: 2.9895204704485344E-7 kr: 0.0011071332614836801 id: 607

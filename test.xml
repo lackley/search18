@@ -1,0 +1,27 @@
+<xml>
+<page>
+<title>
+Page0
+</title>
+<id>
+0
+</id>
+<text>
+a b c d
+a a a 
+this is some sample text 
+</text>
+</page>
+<page>
+<title>
+Page1
+</title>
+<id>
+1
+</id>
+<text>
+this is the text in page [[Page0]]
+a
+</text>
+</page>
+</xml>
